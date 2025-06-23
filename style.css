@@ -19,12 +19,7 @@ header {
 
 header h1 {
     margin: 0;
-    font-size: 2.5rem;
-}
-
-header p {
-    font-size: 1.1rem;
-    margin-top: 5px;
+    font-size: 2rem;
 }
 
 /* メインコンテンツエリアのスタイル */
@@ -40,7 +35,7 @@ main {
 /* 見出し１ */
 article h2 {
     color: #555;
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
@@ -48,7 +43,7 @@ article h2 {
 /* 見出し２ */
 article h3 {
     color: #555;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin-top: 30px;
     margin-bottom: 10px;
 }
